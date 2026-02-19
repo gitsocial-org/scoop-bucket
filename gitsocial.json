@@ -1,0 +1,15 @@
+{
+    "version": "0.1.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/max-ra-gh/gitmsg-monorepo/releases/download/v0.1.3/gitsocial_0.1.3_windows_amd64.zip",
+            "bin": [
+                "gitsocial.exe"
+            ],
+            "hash": "d96d7112004646c0f670d21a37385ff950771fe0768f4442ecdc2a6a7b1f4181"
+        }
+    },
+    "homepage": "https://github.com/gitsocial-org/gitsocial",
+    "license": "MIT",
+    "description": "Git-native collaboration — posts, issues, PRs, releases, all in your repo"
+}
