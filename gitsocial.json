@@ -1,12 +1,12 @@
 {
-    "version": "0.1.3",
+    "version": "0.1.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/max-ra-gh/gitmsg-monorepo/releases/download/v0.1.3/gitsocial_0.1.3_windows_amd64.zip",
+            "url": "https://github.com/max-ra-gh/gitmsg-monorepo/releases/download/v0.1.4/gitsocial_0.1.4_windows_amd64.zip",
             "bin": [
                 "gitsocial.exe"
             ],
-            "hash": "d96d7112004646c0f670d21a37385ff950771fe0768f4442ecdc2a6a7b1f4181"
+            "hash": "57852fcca67391e30541e8b17798b1ec5cc696cd735da32741060a4f71328a4d"
         }
     },
     "homepage": "https://github.com/gitsocial-org/gitsocial",
