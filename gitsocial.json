@@ -1,15 +1,15 @@
 {
-    "version": "0.19.1",
+    "version": "0.20.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gitsocial-org/gitsocial/releases/download/v0.19.1/gitsocial_0.19.1_windows_amd64.zip",
+            "url": "https://github.com/gitsocial-org/gitsocial/releases/download/v0.20.0/gitsocial_0.20.0_windows_amd64.zip",
             "bin": [
                 "gitsocial.exe"
             ],
-            "hash": "5917027820834d9c294188d859bb3c0ad801da1e062080437164f4c1fc72732a"
+            "hash": "d18890e56e0ca7854a2557a3e9744e06b02e6b11308f5273e598cdf4b0685a24"
         }
     },
-    "homepage": "https://github.com/gitsocial-org/gitsocial",
+    "homepage": "https://gitsocial.org",
     "license": "MIT",
     "description": "Git-native collaboration — posts, issues, PRs, releases, all in your repo"
 }
