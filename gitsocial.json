@@ -1,12 +1,12 @@
 {
-    "version": "0.27.0",
+    "version": "0.28.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gitsocial-org/gitsocial/releases/download/v0.27.0/gitsocial_0.27.0_windows_amd64.zip",
+            "url": "https://github.com/gitsocial-org/gitsocial/releases/download/v0.28.0/gitsocial_0.28.0_windows_amd64.zip",
             "bin": [
                 "gitsocial.exe"
             ],
-            "hash": "12d1af35938fb7465255617c490a273afe929e9b7850d6b6a8132f3b73573574"
+            "hash": "92237a79e97189b9c8d7cb441a3885fb0e03baa17015ed090142570604b9c777"
         }
     },
     "homepage": "https://gitsocial.org",
